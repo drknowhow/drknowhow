@@ -6,6 +6,7 @@ local-first: no telemetry, and your keys and text stay on your machine.
 
 | Project | What it does |
 |---|---|
+| [CaseComplete](https://github.com/drknowhow/casecomplete) | A Windows typing assistant that fixes typos as you type, finishes your sentences, and learns how you write. 100% local. |
 | [C3 · Code Context Control](https://github.com/drknowhow/code-context-control) | Local MCP code intelligence for Claude Code, Codex, Gemini and other coding agents. `pip install code-context-control` |
 | [ConciseClaude](https://github.com/drknowhow/ConciseClaude) | A Claude Code plugin for answer-first replies. In my benchmark, Opus replies came out 71% shorter and 30% cheaper. |
 | [Claude Usage for Android](https://github.com/drknowhow/claude-usage-android) | Your Claude session and weekly limits in the notification shade, a widget, and the status bar on stock Android 16. |
